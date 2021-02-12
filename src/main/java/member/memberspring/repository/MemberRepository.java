@@ -1,6 +1,7 @@
 package member.memberspring.repository;
 
 import member.memberspring.domain.Member;
+import org.springframework.stereotype.Repository;
 
 import java.util.List;
 import java.util.Optional;
